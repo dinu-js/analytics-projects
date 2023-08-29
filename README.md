@@ -1,2 +1,2 @@
 # analytics-projects
-Combines repository for analytics projects
+Combined repository for analytics projects
